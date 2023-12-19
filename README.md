@@ -1,0 +1,1 @@
+# mongoose-stock-management-system
